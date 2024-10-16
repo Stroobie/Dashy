@@ -17,3 +17,18 @@
 ### Easy to Edit:
 - Modify the HTML and CSS to suit your needs.
 - Add your own icons, colors, or additional sections without hassle.
+
+**Multi Theme**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/abf57877-5da9-42db-911e-6483b910e611" alt="Image 1" width="300"/>
+  <img src="https://github.com/user-attachments/assets/7a66d594-2d8c-47d7-825c-3875a9fc298d" alt="Image 2" width="300"/>
+  <img src="https://github.com/user-attachments/assets/ad0c732f-b101-4849-b729-1c583b77ca02" alt="Image 3" width="300"/>
+</p>
+
+
+
+- Added Light Theme
+- Added Nord Theme
+- Updated CSS of main theme to allow switching
+- Switching done with JS
+  git hub, make the images next to eachother horizontal
