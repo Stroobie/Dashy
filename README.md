@@ -20,6 +20,7 @@
 - Add your own icons, colors, or additional sections without hassle.
 
 **Multi Theme**
+
 ![image](https://github.com/user-attachments/assets/cc64da3c-2a63-45fb-94c2-53456dd382dc)
 ![image](https://github.com/user-attachments/assets/294f8bba-2966-44a5-a23e-20340e021656)
 ![image](https://github.com/user-attachments/assets/27f1398e-c04f-438d-aaee-d984589127c6)
