@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/ba3838a0-eb99-4665-9799-9ca7b896d530)
+![image](https://github.com/user-attachments/assets/5838da57-a01e-49cd-afe5-c0a8fa570728)
+
 
 # Dasshu - Home Lab Server Dashboard
 
@@ -19,9 +20,8 @@
 - Add your own icons, colors, or additional sections without hassle.
 
 **Multi Theme**
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/abf57877-5da9-42db-911e-6483b910e611" alt="Image 1" width="300"/>
-  <img src="https://github.com/user-attachments/assets/7a66d594-2d8c-47d7-825c-3875a9fc298d" alt="Image 2" width="300"/>
-  <img src="https://github.com/user-attachments/assets/ad0c732f-b101-4849-b729-1c583b77ca02" alt="Image 3" width="300"/>
-</p>
+![image](https://github.com/user-attachments/assets/cc64da3c-2a63-45fb-94c2-53456dd382dc)
+![image](https://github.com/user-attachments/assets/294f8bba-2966-44a5-a23e-20340e021656)
+![image](https://github.com/user-attachments/assets/27f1398e-c04f-438d-aaee-d984589127c6)
+
 
