@@ -25,10 +25,3 @@
   <img src="https://github.com/user-attachments/assets/ad0c732f-b101-4849-b729-1c583b77ca02" alt="Image 3" width="300"/>
 </p>
 
-
-
-- Added Light Theme
-- Added Nord Theme
-- Updated CSS of main theme to allow switching
-- Switching done with JS
-  git hub, make the images next to eachother horizontal
